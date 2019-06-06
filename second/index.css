@@ -1,20 +1,55 @@
 .box-one {
-   border: solid black 10px;
-   width: 100vw;
-   height: 30vh;
-   margin: 10px;
+    border: solid black 10px;
+    width: 100vw;
+    height: 35vh;
+    margin: 15px;
+}
+
+.box-purple {
+    background: purple;
+    width: 50px;
+    height: 200px;
+    margin: 15px;
+    float: left;
+}
+
+.box-green{
+    background: green;
+    width: 400px;
+    height: 200px;
+    margin: 15px;
+    float: left;
+    margin: 20px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    background: lightblue;
+    border-radius: 50%;
+    float: left;
+    margin: 20px;
+    
 }
 
 .box-two {
     border: dotted black 10px;
     width: 100vw;
-    height: 30vh;
-    margin: 10px;
+    height: 55vh;
+    margin: 15px;
+}
+
+.box-yellow {
+    background: lightyellow;
+    width: 90vw;
+    height: 40vh;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    margin: 60px;
 }
 
 .box-three {
     border: solid black 10px;
-    width: 50vw;
-    height: 30vh;
-    margin: 10px auto;
+    width: 40vw;
+    height: 50vh;
+    margin: 15px auto;
 }
