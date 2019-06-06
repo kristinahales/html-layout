@@ -1,0 +1,50 @@
+.item1 {
+    width: 100vw;
+    height: 20vh;
+    background: grey;
+    box-sizing: border-box;
+}
+.smallbox {
+    background: lightblue;
+    width: 100px;
+    height: 100px;
+    
+}
+.item2 {
+    width: 100vw;
+    height: 40vh;
+    background: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.item3 {
+    width: 100vw;
+    height: 20vh;
+    background: lightblue;
+}
+
+.item4 {
+    width: 100vw;
+    height: 20vh;
+    background:teal;
+}
+
+.item5 {
+    width: 100vw;
+    height: 20vh;
+    background: lightgreen;
+}
+
+
+.item6 {
+    width: 100vw;
+    height: 20vh;
+    background:yellow;
+}
+
+.item {
+    width: 100vw;
+    height: 20vh;
+    background: grey;
+}
